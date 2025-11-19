@@ -1,0 +1,83 @@
+[
+  {
+    "parent_rank": 7466,
+    "parent_rarity": 11,
+    "uma": {
+      "main_parent": "[Formula R] Maruzensky",
+      "parent_left": "[Peak Blue] Daiwa Scarlet",
+      "parent_right": "[Wild Top Gear] Vodka"
+    },
+    "stats": {
+      "speed": 987,
+      "stamina": 445,
+      "power": 608,
+      "guts": 364,
+      "wisdom": 372
+    },
+    "fans": 174051,
+    "scenario_id": 1,
+    "affinities": {
+      "track": {
+        "turf": "A",
+        "dirt": "D"
+      },
+      "distance": {
+        "sprint": "A",
+        "mile": "A",
+        "medium": "A",
+        "long": "B"
+      },
+      "style": {
+        "front": "A",
+        "pace": "E",
+        "late": "F",
+        "end": "G"
+      }
+    },
+    "skills": [
+      "Red Shift/LP1211-M",
+      "Non-Standard Distance ○",
+      "Long Shot ◎",
+      "Straightaway Adept",
+      "Focus",
+      "Early Lead",
+      "Unrestrained",
+      "Acceleration"
+    ],
+    "sparks": {
+      "blue_sparks": [
+        "Speed ★2",
+        "Power ★1"
+      ],
+      "pink_sparks": [
+        "Mile ★1",
+        "Medium ★1",
+        "Late Surger ★2"
+      ],
+      "green_sparks": [
+        "Red Shift/LP1211-M ★2"
+      ],
+      "white_sparks": [
+        "Osaka Hai ★1",
+        "Preferred Position ★1",
+        "Focus ★2",
+        "Updrafters ★1"
+      ],
+      "blue_count": 3,
+      "pink_count": 4,
+      "green_count": 2,
+      "white_count": 4,
+      "total_spark_count": 13,
+      "main_blue_spark": "Speed ★1",
+      "main_pink_spark": "Mile ★1",
+      "main_green_spark": "Red Shift/LP1211-M ★2",
+      "main_white_sparks": [
+        "Osaka Hai ★1"
+      ],
+      "main_white_count": 1
+    },
+    "win_count": 4,
+    "rating": 2.5,
+    "rating_idx": 209
+  }
+]
