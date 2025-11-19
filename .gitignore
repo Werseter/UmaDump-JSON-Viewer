@@ -1,0 +1,22 @@
+# Ignore generated game_data artifacts and dumps
+
+# Game data folders produced by scripts
+**/game_data/
+
+# Generated UMA output files
+cleaned_umas_umadump.json
+
+# UmaDump files (sourced externally)
+umadump_data.json
+
+# Editor / Python artifacts (convenient defaults)
+__pycache__/
+*.py[cod]
+*.pyo
+../../venv/
+venv_*/
+.env
+
+# IDE configs
+.vscode/
+.idea/
